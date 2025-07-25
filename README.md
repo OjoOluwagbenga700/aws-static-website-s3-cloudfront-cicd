@@ -1,4 +1,4 @@
-# 🚀 Host a Static Website on AWS S3 + CloudFront with CI/CD (ClickOps)
+# 🚀 Host a Static Website on AWS S3 + CloudFront with Github Action CI/CD (ClickOps)
 
 A beginner-friendly project to host a static website using:
 - Amazon S3 (for storage)
@@ -42,6 +42,5 @@ Refer to `.github/workflows/deploy.yml` to automate S3 sync and CloudFront cache
 - Set up GitHub Actions for automatic deployment
 - Secure static hosting with cache invalidation
 
-## 📜 License
-MIT
-# aws-static-website-s3-cloudfront-cicd
+
+# aws-static-website-s3-cloudfront-github-cicd
